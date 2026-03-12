@@ -1,14 +1,14 @@
-Company overview:
+# Company overview:
 Exabyting specializes in technical staff augmentation and custom software development. They help organizations innovate business operations and fill skill gaps by providing self-motivated, adaptable IT talent. The company maximizes productivity while minimizing costs, delivering talent across web, app, software, and DevOps to support digital transformation.
 
-Top highlighted products or services (for downstream product profiles):
+### Top highlighted products or services (for downstream product profiles):
 1. Staff Augmentation | Provides impact-oriented IT professionals to fill skill gaps and meet unique development needs.
 2. Custom Software Development | Develops tailored software solutions to innovate business operations and boost flexibility.
 3. Web App Development | Builds functional, highly optimized websites leveraging innovative technologies for immersive user experiences.
 4. Mobile App Development | Creates native, web, or hybrid cross-platform mobile apps to build brand awareness and add business value.
 5. DevOps | Automates development processes using cloud and coding expertise to enhance productivity.
 
-What they deliver / how it works:
+### What they deliver / how it works:
 - Connect businesses with self-motivated IT talent matched to specific needs in web, app, software, and DevOps.
 - Provide technical staff augmentation to fill skill gaps without full-time hiring costs.
 - Develop custom software to innovate operations and facilitate business growth.
@@ -17,7 +17,7 @@ What they deliver / how it works:
 - Ensure software quality through detailed testing to prevent breakdowns and improve performance.
 - Foster collaborative environments for creative solutions and results.
 
-Customer profile
+# Customer profile
 
 Ideal Customer Profile (ICP): Businesses facing IT skill gaps, undergoing digital transformation, needing flexible talent without full-time hires; mid-market organizations seeking cost-effective development.
 Target Roles: Business owners, IT managers (buyers); development teams, DevOps engineers (users).
@@ -25,8 +25,8 @@ Selling locations and industries: Global market from base in Lithuania & Dhaka, 
 Anti-personas / bad fit: Companies that do not need external IT talent or custom development; those preferring in-house-only hires without augmentation.
 
 
-Key benefits & outcomes
-Pain points
+## Key benefits & outcomes
+### Pain points
 
 Recruitment Challenges:
 - High costs and difficulty in regularly recruiting tech-savvy professionals.
