@@ -63,7 +63,7 @@ Exabyting is a best fit for **digitally active, mid-market and scaling organisat
 
 ### How to qualify in 20 seconds
 
-* **Fit** — In the size/revenue band, digitally active, reachable economic buyer (CTO / VP Eng / IT Director / founder).
+* **Fit** — In the size/revenue band, digitally active, reachable economic buyer (CTO / VP Eng / IT Director / **Head of Infrastructure** / founder).
 * **Capacity** — Funded or profitable; budget owner exists; not distressed or in a freeze.
 * **Timing** — At least one active trigger (funding, hiring spike, leadership change, legacy EOL, product launch).
 * **Access** — Buyer/champion is identifiable and engageable on LinkedIn/email. Open to distributed delivery.
@@ -74,7 +74,7 @@ Exabyting is a best fit for **digitally active, mid-market and scaling organisat
 
 ### Where to focus outbound first
 
-Prioritise **Tier A accounts** (ICP fit score ≥ 80, see Section 13): strong firmographic fit *and* a live trigger *and* a reachable buyer. Geographically, lead with **EU/UK/Nordics/DACH/Baltics (nearshore from Lithuania)** and **North America (cost-arbitrage offshore with EU-overlap hours)**. The fastest-converting motion is single-role staff augmentation as a land, expanding into pods, custom builds, QA, and DevOps.
+Prioritise **Tier A accounts** (ICP fit score ≥ 80, see Section 13): strong firmographic fit *and* a live trigger *and* a reachable buyer. Geographically, lead with **EU/UK/Nordics/DACH/Baltics (nearshore from Lithuania)** and **North America (cost-arbitrage offshore with EU-overlap hours)**. The fastest-converting motion is single-role staff augmentation as a land, expanding into pods, custom builds, QA, and **DevOps / Platform engineering — currently the highest-leverage, highest-margin specialty wedge in the portfolio, sold directly to Heads of Infrastructure**.
 
 # 2. How to Use This Document (by Role)
 
@@ -188,7 +188,7 @@ Venture- or revenue-funded software businesses (B2B SaaS, platforms, marketplace
 
 | **Role in deal** | **Typical titles** | **What they care about** |
 | --- | --- | --- |
-| Economic buyer | VP Engineering, CTO | Velocity vs burn; hitting the roadmap without over-hiring fixed cost |
+| Economic buyer | VP Engineering, CTO, Head of Infrastructure / VP Platform | Velocity vs burn; hitting the roadmap without over-hiring fixed cost |
 | Champion | Engineering Manager, Tech Lead, Head of Platform | Quality of talent, ramp time, fit with their workflow |
 | Technical evaluator | Senior/Staff Engineer, Architect | Code quality, seniority, communication, autonomy |
 | Influencer | Head of Product / PM | Throughput on the backlog; predictability of delivery |
@@ -228,6 +228,7 @@ Venture- or revenue-funded software businesses (B2B SaaS, platforms, marketplace
 * **Roadmap-velocity —** ‘Hitting your roadmap without a 4-month hiring cycle’ — speed of vetted capacity vs in-house recruiting.
 * **Burn-efficiency —** ‘Capacity that flexes with the roadmap, not fixed headcount’ — for the cost-conscious VP Eng/CFO.
 * **Specialist-gap —** ‘Need a senior {DevOps/mobile/data} engineer this month?’ — narrow, named, immediately useful.
+* **Platform/DevOps-gap —** ‘A senior {Kubernetes/Terraform/SRE} engineer this month?’ — for the Head of Infrastructure whose platform is outpacing hiring; the highest-margin, stickiest land in the portfolio.
 * **Launch-flex —** ‘Scale the team up for launch, down after — no layoffs’ — timed to a public launch trigger.
 
 ## Channels & cadence
@@ -347,7 +348,7 @@ Traditional mid-market firms where software is becoming strategic but is not the
 
 | **Role in deal** | **Typical titles** | **What they care about** |
 | --- | --- | --- |
-| Economic buyer | CIO, CTO, Head of Digital/Transformation, COO | Business ROI, risk reduction, modernisation on time/budget |
+| Economic buyer | CIO, CTO, Head of Digital/Transformation, Head of Infrastructure, COO | Business ROI, risk reduction, modernisation on time/budget |
 | Champion | IT Director, Digital Programme Lead, Innovation Lead | Execution capability, de-risking the build, vendor reliability |
 | Technical evaluator | Lead Engineer / Solution Architect (if any) | Feasibility, integration with legacy/ERP, security |
 | Influencer | Operations / line-of-business leaders | Will the tool actually be adopted and used? |
@@ -551,6 +552,23 @@ Personas cut across segments. The same title behaves differently by segment, but
 | **Disarm with** | Pre-empt with security/data answers, position as complement to hiring not replacement, be procurement-ready. |
 | **Don’t** | Ignore them until late. Surface and address their concerns proactively. |
 
+## 10.6 The Infrastructure / Platform Leader
+
+*Head of Infrastructure · VP Infrastructure · Head of Platform Engineering · Head of DevOps · SRE Lead*
+
+|  |  |
+| --- | --- |
+| **Drives them** | Uptime, release velocity, and cloud-cost control — scaling the platform without growing on-call toil. They own reliability, deployment frequency, MTTR, and the CI/CD + infrastructure backbone the entire company ships through. |
+| **What they fear** | Outages on their watch, fragile/snowflake environments, a CI/CD pipeline that has become the release bottleneck, cloud bills spiralling, being blamed by product for slow shipping, and security/compliance gaps in the delivery path. |
+| **Buys when** | The platform is buckling under growth — a Kubernetes migration, SRE build-out, CI/CD overhaul, observability rollout, or FinOps push that hiring cannot staff fast enough, and a senior specialist can land in weeks, not quarters. |
+| **Top objections** | ‘Infra is too critical to outsource.’ · ‘How do you handle production access / on-call?’ · ‘We’ve been burned by contractors who don’t understand reliability.’ · ‘Security and compliance won’t sign off.’ |
+| **Disarm with** | Senior platform/DevOps profiles (AWS/GCP/Azure, Kubernetes, Terraform, CI/CD, observability), SOC 2 / GDPR readiness, ‘embedded under your SREs and runbooks’, trial-on-one-initiative (rebuild the pipeline or own IaC), and real-time overlap hours for on-call handoff. |
+| **Don’t** | Frame infra as generic ‘IT support’. Speak reliability, automation, and cost — and never minimise the production-access or security concern. |
+
+|  |
+| --- |
+| **Why this persona is a priority**  The Head of Infrastructure is the single most underserved buyer in the market and Exabyting’s most defensible land. Platform/DevOps work is high-margin, technical-credibility-led (not price-led), and once embedded in CI/CD, IaC, Kubernetes, or SRE runbooks the relationship compounds quarter over quarter. This is where Exabyting’s seniority + EU-overlap hours + managed accountability cleanly beat both freelance marketplaces (no production reliability) and heavyweight enterprise vendors (too slow/expensive for mid-market). Treat DevOps/Platform not as an expansion add-on but as a flagship entry motion in its own right. |
+
 # 11. Trigger & Intent Signal Catalog
 
 Triggers are the difference between a list that fits and a list that **buys**. Each signal below is mapped to the segment it most predicts, the source to monitor, and the opening angle it unlocks. Weight these heavily in scoring (§13).
@@ -567,6 +585,11 @@ Triggers are the difference between a list that fits and a list that **buys**. E
 | Product launch / new platform | S1, S4 | Product Hunt, press, social | ‘Scale up for launch, down after?’ |
 | Accelerator cohort | S4 | YC/Techstars lists, demo days | Founder-direct, investor-warm intro |
 | M&A / new market entry | S1, S3 | Press, IR | ‘Integration / new-market build capacity?’ |
+| Hiring DevOps / SRE / Platform engineers (5+ or long-open) | S1, S3 | LinkedIn Jobs, careers pages | ‘Those platform reqs have been open a while — bridge the gap?’ |
+| Cloud migration / Kubernetes / platform-engineering adoption | S1, S3 | Job posts, engineering blog, BuiltWith | ‘Scaling the platform without rebuilding the team?’ |
+| New Head of Infrastructure / VP Platform / Head of DevOps | S1, S3 | LinkedIn, press | ‘New infra leadership — capacity rebuild incoming?’ |
+| Reliability pain / postmortem / ‘rebuilding our pipeline’ signals | S1, S3 | Engineering blog, social, incident posts | ‘Harden the pipeline and cut the toil?’ |
+| Cloud-cost / FinOps push | S1, S3 | Job posts (FinOps), engineering blog, news | ‘Right-size the platform without slowing releases?’ |
 | Tech-stack signals | S1, S3 | BuiltWith, job descriptions, GitHub | Stack-matched specialist offer |
 | Bench/utilisation stress posts | S2 | Founder LinkedIn posts | ‘Capacity that flexes with project load’ |
 
@@ -649,11 +672,15 @@ Which service to lead with, by segment. ●● = primary entry point · ● = st
 | Product Research & Engineering | ○ | ○ | ●● | ●● |
 | AI & ML Development | ● | ● | ●● | ○ |
 | QA & Test Automation | ● | ● | ● | ○ |
-| DevOps | ● | ● | ● | ○ |
+| DevOps / Platform Engineering | ●● | ● | ●● | ○ |
 
 |  |
 | --- |
 | **Cross-sell / expansion logic**  Land narrow, expand wide. The reliable expansion arc is: single role → pod → quality layer (QA/test automation) → reliability layer (DevOps/CI-CD) → adjacent build streams (custom/web/mobile/AI). Portfolio/account managers should map each account to its ‘next service’ at every QBR. |
+
+|  |
+| --- |
+| **DevOps & Infrastructure — the flagship specialty land**  DevOps/Platform engineering is run as a first-class motion, not a secondary expansion. It cuts across **S1 and S3** in particular, is bought directly by the **Head of Infrastructure / VP Platform / Head of DevOps** (see §10.6), and is the stickiest land in the portfolio: once embedded in CI/CD, IaC, Kubernetes, or SRE runbooks, the relationship compounds quarter over quarter. Lead with senior platform specialists (AWS/GCP/Azure, Terraform, Kubernetes, observability), sell **reliability + release velocity + cloud-cost** outcomes (never ‘IT support’), and pre-empt the production-access / security objection up front. Weight these accounts aggressively in scoring (§13) — platform/DevOps intent is one of the strongest buy-now signals in the catalog (§11). |
 
 # 15. Geographic Segmentation & Positioning
 

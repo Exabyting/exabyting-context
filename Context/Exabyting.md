@@ -19,10 +19,10 @@ Exabyting specializes in technical staff augmentation and custom software develo
 
 # Customer profile
 
-Ideal Customer Profile (ICP): Businesses facing IT skill gaps, undergoing digital transformation, needing flexible talent without full-time hires; mid-market organizations seeking cost-effective development.
-Target Roles: Business owners, IT managers (buyers); development teams, DevOps engineers (users).
-Selling locations and industries: Global market from base in Lithuania & Dhaka, Bangladesh; web, app, software, DevOps industries.
-Anti-personas / bad fit: Companies that do not need external IT talent or custom development; those preferring in-house-only hires without augmentation.
+- **Ideal Customer Profile (ICP):** Businesses facing IT skill gaps, undergoing digital transformation, needing flexible talent without full-time hires; mid-market organizations seeking cost-effective development.
+- **Target Roles:** Business owners, IT managers (buyers); development teams, DevOps engineers (users).
+- **Selling locations and industries:** Global market from base in - Lithuania & Dhaka, Bangladesh; web, app, software, DevOps industries.
+- **Anti-personas / bad fit:** Companies that do not need external IT talent or custom development; those preferring in-house-only hires without augmentation.
 
 
 ## Key benefits & outcomes
