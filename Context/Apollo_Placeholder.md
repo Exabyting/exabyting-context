@@ -1,0 +1,6 @@
+- FirstName : {{contact.first_name}}
+- LastName : {{contact.last_name}}
+- Company : {{account.name}}
+- Title : {{contact.title}}
+- Email : {{contact.email}}
+- Phone : {{contact.phone}}

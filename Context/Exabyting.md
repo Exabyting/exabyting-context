@@ -45,31 +45,29 @@ Value proposition
 - Supports digital transformation to thrive in competitive markets.
 
 
-Unique characteristics
-Advantage over competitors
+### Unique characteristics
+#### Advantage over competitors
 
 Exabyting focuses on self-motivated, adaptable talent at the intersection of compassion, transparency, and credibility. They emphasize collaborative environments for creative solutions and commitment to client success.
 How they compete: Positions as a partner delivering best-in-class talent for web, app, software, and DevOps, minimizing costs while maximizing productivity in staff augmentation and custom development.
 
-Primary competitors
+### Primary competitors
 
-Toptal
-Upwork
-EPAM Systems
-Globant
-Nearsoft
+- Toptal
+- Upwork
+- EPAM Systems
+- Globant
+- Nearsoft
 
-Social proof
+### Social proof
 
 No verified social proof, public testimonials, case studies, or customer metrics identified.
 
 
-Other details
-CTA
+### Other details
+- CTA: Get connected to specialist IT talent.
 
-Get connected to specialist IT talent.
-
-Additional information
+### Additional information
 
 Research limitations: No verifiable customers, case studies, testimonials, pricing details, or named competitors found in sources. Limited first-party pages accessed.
 Sources: https://exabyting.com/about-us/
